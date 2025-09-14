@@ -21,6 +21,21 @@ expense_tracker/
 
 
 
+Example Usage
+
+Run the code.
+
+Enter a date (or use today’s date).
+
+Add category, description, and amount.
+
+Click “Add Expense”.
+
+Use filters to narrow results by category or date.
+
+See the total expense update automatically.
+
+
 Potential Future Enhancements
 
 Add monthly summaries
